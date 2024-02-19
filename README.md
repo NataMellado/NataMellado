@@ -6,8 +6,6 @@
 - 🌱 Advocate for continuous growth and personal development
 - 🌿 Nature enthusiast and outdoor adventurer
 
-## 💻 Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,jquery,git,xd,ai,figma&theme=dark)](https://skillicons.dev)
 
 <br>
 
