@@ -6,8 +6,7 @@
 - ✨ Me gusta el diseño en Frontend.
 - 🧠 Interesada en aprender sobre IA y machine learning.
 - 🎨 Autodidacta en diseño gráfico.
-- 🌱 Apasionada por el aprendizaje continuo y el crecimiento personal.
-- 🌿 Amante de las aventuras al aire libre y de la naturaleza.
+- 🌱 Apasionada por el crecimiento personal y las aventuras al aire libre.
 
 <br>
 
