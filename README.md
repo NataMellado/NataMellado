@@ -3,7 +3,7 @@
 ## 🔍 Sobre mí
 
 - 💻 Estudiante de segundo año en Ingeniería Informática.
-- ✨ Me gusta el diseño en Frontend.
+- ✨ Me gusta el desarrollo Frontend.
 - 🧠 Interesada en aprender sobre IA y machine learning.
 - 🎨 Autodidacta en diseño gráfico.
 - 🌱 Apasionada por el crecimiento personal y las aventuras al aire libre.
