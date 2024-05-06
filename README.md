@@ -2,11 +2,19 @@
 
 ## 🔍 Sobre mí
 
-- 💻 Estudiante de segundo año en Ingeniería Informática.
 - ✨ Me gusta el desarrollo Frontend.
 - 🧠 Interesada en aprender sobre IA y machine learning.
 - 🎨 Autodidacta en diseño gráfico.
 - 🌱 Apasionada por el crecimiento personal y las aventuras al aire libre.
+
+## Formación académica
+
+- Técnico en administración de empresas
+- Ingeniería informática (Cursando segundo año)
+- Bootcamp Desarrollo Web con Javascript
+
+## Contacto
+[![](https://skillicons.dev/icons?i=gmail, whatsapp, github=3)](https://skillicons.dev)
 
 <br>
 
