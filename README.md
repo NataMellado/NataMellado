@@ -13,6 +13,10 @@
 - Ingeniería informática (Cursando segundo año) - Inacap
 - Bootcamp de Desarrollo Web con Javascript - Desafío Latam
 
+## Preparándome para las siguientes certificaciones
+- Inglés Nivel B2
+- Red Hat Certified System Administrator (RHCSA)
+
 ## Contacto
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nataliamelladocani@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/NataMellado)
