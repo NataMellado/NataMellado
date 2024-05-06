@@ -14,7 +14,7 @@
 - Bootcamp de Desarrollo Web con Javascript - Desafío Latam
 
 ## Contacto
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,github)](https://skillicons.dev)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataMellado&layout=compact&theme=jolly&show_icons=true)
