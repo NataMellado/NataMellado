@@ -14,7 +14,7 @@
 - Bootcamp de Desarrollo Web con Javascript - Desafío Latam
 
 ## Preparándome para las siguientes certificaciones
-- Inglés Nivel B2
+- Inglés Nivel B1
 - Red Hat Certified System Administrator (RHCSA)
 
 ## Contacto
