@@ -9,13 +9,12 @@
 
 ## Formación académica
 
-- Técnico en administración de empresas
-- Ingeniería informática (Cursando segundo año)
-- Bootcamp Desarrollo Web con Javascript
+- Técnico en administración de empresas - Inacap
+- Ingeniería informática (Cursando segundo año) - Inacap
+- Bootcamp de Desarrollo Web con Javascript - Desafío Latam
 
 ## Contacto
-[![](https://skillicons.dev/icons?i=gmail, whatsapp, github=3)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataMellado&layout=compact&theme=jolly&show_icons=true)
