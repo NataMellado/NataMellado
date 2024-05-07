@@ -9,11 +9,11 @@
 
 ## Formación académica
 
-- Técnico en administración de empresas - Inacap
-- Ingeniería informática (Cursando segundo año) - Inacap
-- Bootcamp de Desarrollo Web con Javascript - Desafío Latam
+- Técnico en Administración de empresas - Inacap
+- Ingeniería Informática (Cursando segundo año) - Inacap
+- Bootcamp Desarrollo Web en Javascript - Desafío Latam
 
-## Preparándome para las siguientes certificaciones
+## Preparándome para las siguientes certificaciones:
 - Inglés Nivel B1
 - Red Hat Certified System Administrator (RHCSA)
 
