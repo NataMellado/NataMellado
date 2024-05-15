@@ -11,7 +11,7 @@
 
 - Técnico en Administración de empresas - Inacap
 - Ingeniería Informática (Cursando segundo año) - Inacap
-- Bootcamp Desarrollo Web en Javascript - Desafío Latam
+- Desarrollo de aplicaciones web con Javascript - Bootcamp Desafío Latam
 
 ## Preparándome para las siguientes certificaciones:
 - Inglés Nivel B1
